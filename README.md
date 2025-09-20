@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Selik254
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...HTML/CSS AND JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...web development
+- 👀 I’m interested in ...AI/Web Development
+- 🌱 I’m currently learning ...Python and Jac
+- 💞️ I’m looking to collaborate on ...gen ai
 - 📫 How to reach me ...seliksaidi@gmail.com
 - 😄 Pronouns: ...none
 - ⚡ Fun fact: ...
